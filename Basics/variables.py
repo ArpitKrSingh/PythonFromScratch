@@ -3,10 +3,10 @@
 
 
 #Strings
+
 first_name = "karpit"
 food = "J"
 email ="karpithere@gmail.com"
-
 
 print(f"Hello {first_name}")
 print(f"You like {food}")

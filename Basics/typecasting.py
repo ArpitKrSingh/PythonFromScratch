@@ -12,4 +12,4 @@ is_student = False
 name = bool(name)
 School = bool(School)
 
-print(f"{name} and {School}") # We can check whether the user has entered something or not
+print(f"{name} and {School}") # We can check whether the user has entered something or not if it's False
